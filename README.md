@@ -20,7 +20,7 @@ https://courses.engr.illinois.edu/ece448/sp2018/mp3/mp3.html
 ###### Part 1.2: Pixel groups as features
 
 ## Assignment 4: Reinforcement Learning and Deep Learning
-https://courses.engr.illinois.edu/ece448/sp2018/assignment4.html#dqn
+https://courses.engr.illinois.edu/ece448/sp2018/assignment4.html
 #### Part 1: Q-Learning (Pong)
 ###### Part 1.1: Single-Player Pong
 ###### Part 1.2: Environment Changed
